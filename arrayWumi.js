@@ -57,8 +57,8 @@ var people = ["Greg", "Mary", "Devon", "James"];
 		people.push(“Adewumi”); //["Matt”, Mary", "Devon", “Adewumi”]
 		
 //6. Using a loop, iterate through this array and after console.log-ing "Mary", exit from the loop.
-		for (let i=0; people.length; i++) {
-			if(i > 1) {break;} else { console.log(people[i]}
+		for (let i=0; i < people.length; i++) {
+			if(i > 1) {break;} else { console.log(people[i]);}
 		}
 		
 
