@@ -20,7 +20,7 @@
 		favoriteFoods.unshift(“Basmati Rice”);
 
 // 7. What happens when you try to pop from an empty array?
-		Undefined
+		// Undefined
 
 /*8. In the examples below, use splice to convert the first array to the second array:
 ○ [2, 3, 4, 5] -> [2, 4, 5]
@@ -88,7 +88,7 @@ Write the code necessary to do the following:
 		var arr = [];
 
 // Add your first name to the arr variable
-		arr.push(Adewumi);
+		arr.push(“Adewumi”);
 
 // Add your last name to the end of the arr variable
 		arr.push("Adeyemo");
